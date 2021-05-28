@@ -9,6 +9,7 @@
 - 🌱 Şu anda html öğreniyorum
 - 👯 Başka insanlarla çalışmak istiyorum
 - 🥅 2021 İsteklerim: html bilgimi geliştirmek
+- https://github-readme-stats.vercel.app/api?username=derinsarparici&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
 ### Spotify Çalıyor 🎧
 
