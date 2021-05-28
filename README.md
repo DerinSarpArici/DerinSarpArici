@@ -1,4 +1,4 @@
-### Selam, Ben Sarp - [DerinSarpArıcı][website] 👋
+### Selam, Ben [DerinSarpArıcı][website] 👋
 
 [![Website](https://img.shields.io/website?label=derinsarprici.tk&style=for-the-badge&url=https%3A%2F%2Fderinsarparici.com)](https://derinsarparici.tk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DerinSarpArici?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=DerinSarpArici)
