@@ -11,7 +11,7 @@
 
 ### Spotify Çalıyor 🎧
 
-[<img src="novatorem-zeta-indol.vercel.app/api/spotify-playing" alt="Spotify Çalıyor" width="350" />](https://open.spotify.com/user/ilnjbsgvzrk3trd5t3x0iun98?si=14f1dd3a02b44942)
+[![Spotify](https://novatorem-zeta-indol.vercel.app/api/spotify)](https://open.spotify.com/user/ilnjbsgvzrk3trd5t3x0iun98?si=7e912b56bb2a437c&nd=1)
 
 ### Beni bulabileceğiniz yerler:
 
