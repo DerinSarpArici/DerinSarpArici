@@ -11,7 +11,9 @@
 
 ### Spotify Çalıyor 🎧
 
-[![Spotify](https://novatorem-git-master-derinsarparici.vercel.app/api/spotify)](https://open.spotify.com/user/ilnjbsgvzrk3trd5t3x0iun98?si=7e912b56bb2a437c&nd=1)
+<a href="https://githubspotify-neon.vercel.app/now-playing?open">
+    <img src="https://githubspotify-neon.vercel.app/now-playing" width="256" height="64" alt="Şu Anda Çalıyor">`
+</a>
 
 ### Beni bulabileceğiniz yerler:
 
