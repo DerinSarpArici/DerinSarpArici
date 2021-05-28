@@ -6,9 +6,10 @@
 
 ## Ben bir lise öğrenicisiyim ve şu anda!!
 
-- 🌱 Şu anda html öğreniyorum
-- 👯 Başka insanlarla çalışmak istiyorum
-- 🥅 2021 İsteklerim: html bilgimi geliştirmek
+- 🌱 Şu anda html öğreniyorum.
+- 👯 Başka insanlarla çalışmak istiyorum!
+- 🥅 2021 İsteklerim: html ve diğer diller hakkında kendimi geliştirmek istiyorum!
+- 💻 Discord Botları: Kronos isimli botumu büyütmek ve dahada kaliteli bir hale getirebilmek istiyorum.
 
 ### Spotify Çalıyor 🎧
 
