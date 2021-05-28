@@ -11,7 +11,7 @@
 
 ### Spotify Çalıyor 🎧
 
-[![Spotify](https://novatorem-zeta-indol.vercel.app/api/spotify)](https://open.spotify.com/user/ilnjbsgvzrk3trd5t3x0iun98?si=7e912b56bb2a437c&nd=1)
+[![Spotify](https://novatorem-git-master-derinsarparici.vercel.app/api/spotify)](https://open.spotify.com/user/ilnjbsgvzrk3trd5t3x0iun98?si=7e912b56bb2a437c&nd=1)
 
 ### Beni bulabileceğiniz yerler:
 
