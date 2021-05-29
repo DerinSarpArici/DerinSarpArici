@@ -9,7 +9,7 @@
 - 🌱 Şu anda html öğreniyorum.
 - 👯 Başka insanlarla çalışmak istiyorum!
 - 🥅 2021 İsteklerim: html ve diğer diller hakkında kendimi geliştirmek istiyorum!
-- 💻 [Discord Botları: Kronos isimli botumu büyütmek ve dahada kaliteli bir hale getirebilmek istiyorum.](http://www.kronosbot.tk)
+- 💻 Discord Botları: [Kronos] isimli botumu büyütmek ve dahada kaliteli bir hale getirebilmek istiyorum.(http://www.kronosbot.tk)
 
 ### Spotify Çalıyor 🎧
 
