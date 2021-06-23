@@ -8,7 +8,7 @@
 
 - 🌱 Şu anda html öğreniyorum.
 - 👯 Başka insanlarla çalışmak istiyorum!
-- 🥅 2021 İsteklerim: html ve diğer diller hakkında kendimi geliştirmek istiyorum!
+- 🥅 2021 İsteklerim: bildiğim kodlama dillerinde kendimi geliştirmek istiyorum!
 - 💻 Discord Botları: Kronos isimli botumu büyütmek ve dahada kaliteli bir hale getirebilmek istiyorum.
 - 🤖 [Kronos'un Sitesini Görmek İçin Tıkla](http://www.kronosbot.tk)
 
