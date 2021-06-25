@@ -1,7 +1,7 @@
 ### Selam, Ben [DerinSarpArıcı][website] 👋
 
 [![Website](https://img.shields.io/website?down_color=Red&down_message=Kapal%C4%B1&label=derinsarparici.tk&style=for-the-badge&up_color=Green&up_message=A%C3%A7%C4%B1k&url=http%3A%2F%2Fwww.derinsarparici.tk)](http://www.derinsarparici.tk)
-[![Twitter Takip](https://img.shields.io/twitter/follow/DerinSarpArici?color=1DA1F2&label=Twitter%27%C4%B1m%C4%B1%20takip%20edebilirsiniz&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=DerinSarpArici)
+(https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=DerinSarpArici)
 [![Discord](https://img.shields.io/discord/847969875980582915?label=Sunucumuz&style=for-the-badge)](https://discord.gg/tknmRyw6un)
 
 ## Ben bir lise öğrenicisiyim ve şu anda!!
@@ -21,7 +21,7 @@
 ### Beni bulabileceğiniz yerler:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -34,7 +34,7 @@
 ---
 
 [website]: https://derinsarparici.tk
-[twitter]: https://twitter.com/DerinSarpArici
+[twitter]: https://www.reddit.com/user/DerinSarp
 [instagram]: https://www.instagram.com/sarp_derin_arici
 
 ### Ekstralar:
