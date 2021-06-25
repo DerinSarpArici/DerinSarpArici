@@ -1,7 +1,6 @@
 ### Selam, Ben [DerinSarpArıcı][website] 👋
 
 [![Website](https://img.shields.io/website?down_color=Red&down_message=Kapal%C4%B1&label=derinsarparici.tk&style=for-the-badge&up_color=Green&up_message=A%C3%A7%C4%B1k&url=http%3A%2F%2Fwww.derinsarparici.tk)](http://www.derinsarparici.tk)
-(https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=DerinSarpArici)
 [![Discord](https://img.shields.io/discord/847969875980582915?label=Sunucumuz&style=for-the-badge)](https://discord.gg/tknmRyw6un)
 
 ## Ben bir lise öğrenicisiyim ve şu anda!!
