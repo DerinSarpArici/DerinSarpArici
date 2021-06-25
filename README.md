@@ -12,8 +12,10 @@
 - 🤖 [Kronos'un Sitesini Görmek İçin Tıkla](http://www.kronosbot.tk)
 
 ### Spotify Çalıyor 🎧
+<a
 [<img src="https://spotify-caliyor.vercel.app/api/spotify" alt="Derin Spotify Çalıyor" width=""350 />]
 (https://open.spotify.com/user/ilnjbsgvzrk3trd5t3x0iun98)
+</a>
 
 ### Beni bulabileceğiniz yerler:
 
