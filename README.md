@@ -13,9 +13,7 @@
 
 ### Spotify Çalıyor 🎧
 
-<a href="https://githubspotify-neon.vercel.app/now-playing?open">
-    <img style=color:#FF0000; src="https://githubspotify-neon.vercel.app/now-playing" width="256" height="64" alt="Şu Anda Çalıyor">`
-</a>
+[![Spotify](https://spotify-caliyor.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ### Beni bulabileceğiniz yerler:
 
