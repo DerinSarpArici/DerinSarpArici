@@ -20,9 +20,9 @@
 
 ### Beni bulabileceğiniz yerler:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="derinsarparici.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="DSA | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="DSA | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -34,8 +34,8 @@
 ---
 
 [website]: https://derinsarparici.tk
-[twitter]: https://www.reddit.com/user/DerinSarp
-[instagram]: https://www.instagram.com/sarp_derin_arici
+[reddit]: https://www.reddit.com/user/DerinSarp
+[discord]: https://discord.gg/tknmRyw6un
 
 ### Ekstralar:
 [![Derin Sarp Arıcı'nın Github Statları!](https://github-readme-stats.vercel.app/api?username=derinsarparici)](http://www.derinsarparici.tk)
