@@ -6,7 +6,7 @@
 
 ## Ben bir lise öğrenicisiyim ve şu anda!!
 
-- 🌱 Şu anda html öğreniyorum.
+- 🌱 Şu anda kendimi geliştirmek üzerine yoğunlaşıyorum!
 - 👯 Başka insanlarla çalışmak istiyorum!
 - 🥅 2021 İsteklerim: bildiğim kodlama dillerinde kendimi geliştirmek istiyorum!
 - 💻 Discord Botları: Kronos isimli botumu büyütmek ve dahada kaliteli bir hale getirebilmek istiyorum.
