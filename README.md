@@ -9,18 +9,11 @@
 - 🌱 Şu anda kendimi geliştirmek üzerine yoğunlaşıyorum!
 - 👯 Başka insanlarla çalışmak istiyorum!
 - 🥅 2021 İsteklerim: bildiğim kodlama dillerinde kendimi geliştirmek istiyorum!
-- 💻 Discord Botları: Kronos isimli botumu büyütmek ve dahada kaliteli bir hale getirebilmek istiyorum.
-- 🤖 [Kronos'un Sitesini Görmek İçin Tıkla](http://www.kronosbot.tk)
-
-### Spotify Çalıyor 🎧
-
-<a href="https://githubspotify-neon.vercel.app/now-playing?open">
-    <img style=color:#FF0000; src="https://githubspotify-neon.vercel.app/now-playing" width="256" height="64" alt="Şu Anda Çalıyor">`
-</a>
+- 💻 Bilmediğim farklı kodlama dillerini öğrenmek istiyorum.
+- 🤖 Sıkıldıkça Discord botları Yapmayı Severim
 
 ### Beni bulabileceğiniz yerler:
 
-[<img align="left" alt="derinsarparici.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="DSA | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="DSA | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
@@ -34,7 +27,6 @@
 
 ---
 
-[website]: https://derinsarparici.tk
 [twitter]: https://twitter.com/DerinSarpArici
 [discord]: https://discord.gg/tknmRyw6un
 
