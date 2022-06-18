@@ -1,7 +1,7 @@
 ### Selam, Ben DerinSarpArıcı 👋
 
 [![Twitter](https://img.shields.io/twitter/follow/DerinSarpArici?color=Green&label=Twitter&style=for-the-badge)](https://twitter.com/DerinSarpArici)
-[![Discord](https://img.shields.io/discord/876979337432301609?label=Sunucumuz&style=for-the-badge)](https://discord.gg/tbzna9V6Xv)
+[![Discord](https://img.shields.io/discord/876979337432301609?label=Sunucumuz&style=for-the-badge)](https://discord.gg/GZjUREyf3N)
 
 ## Ben bir lise öğrenicisiyim ve şu anda!!
 
