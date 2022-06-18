@@ -27,7 +27,7 @@
 ---
 
 [twitter]: https://twitter.com/DerinSarpArici
-[discord]: https://discord.gg/tknmRyw6un
+[discord]: https://discord.gg/GZjUREyf3N
 
 ### Ekstralar:
 [![Derin Sarp Arıcı'nın Github Statları!](https://github-readme-stats.vercel.app/api?username=derinsarparici)](http://www.derinsarparici.tk)
