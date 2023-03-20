@@ -3,13 +3,8 @@
 [![Twitter](https://img.shields.io/twitter/follow/DerinSarpArici?color=Green&label=Twitter&style=for-the-badge)](https://twitter.com/DerinSarpArici)
 [![Discord](https://img.shields.io/discord/740745132718030849?color=green&label=Discord&logoColor=Green&style=for-the-badge)](https://discord.gg/GZjUREyf3N)
 
-## Ben bir lise öğrenicisiyim ve şu anda!!
+## Ben bir lise öğrenicisiyim ve şu anda Python öğreniyorum!!
 
-- 🌱 Şu anda kendimi geliştirmek üzerine yoğunlaşıyorum!
-- 👯 Başka insanlarla çalışmak istiyorum!
-- 🥅 2021 İsteklerim: bildiğim kodlama dillerinde kendimi geliştirmek istiyorum!
-- 💻 Bilmediğim farklı kodlama dillerini öğrenmek istiyorum.
-- 🤖 Sıkıldıkça Discord botları Yapmayı Severim
 
 ### Beni bulabileceğiniz yerler:
 
