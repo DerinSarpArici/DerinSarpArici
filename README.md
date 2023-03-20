@@ -5,15 +5,9 @@
 
 ## Ben bir lise öğrenicisiyim ve şu anda Python öğreniyorum!!
 
-
-### Beni bulabileceğiniz yerler:
-
-[<img align="left" alt="DSA | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DSA | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
 <br />
 
-### Diller ve Araçlar:
+### Kullanmayı Bildiğim Diller Ve Araçlar:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://github.com/DerinSarpArici)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://github.com/DerinSarpArici)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://github.com/DerinSarpArici)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](https://github.com/DerinSarpArici)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://github.com/DerinSarpArici) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DerinSarpArici)  
 <br />
