@@ -3,15 +3,12 @@
 [![Twitter](https://img.shields.io/twitter/follow/DerinSarpArici?color=Green&label=Twitter&style=for-the-badge)](https://twitter.com/DerinSarpArici)
 [![Discord](https://img.shields.io/discord/740745132718030849?color=green&label=Discord&logoColor=Green&style=for-the-badge)](https://discord.gg/GZjUREyf3N)
 
-## Ben bir lise öğrenicisiyim ve şu anda Python öğreniyorum!!
 
-<br />
+![](https://cdn.discordapp.com/attachments/1167138555710144605/1176959341279072256/sarp.png?ex=6570c3cd&is=655e4ecd&hm=1d045a6b3781013653684ba4f1c16d24dc16f249a3f0206bac1bdd357722dfce&)
 
-### Kullanmayı Bildiğim Diller Ve Araçlar:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://github.com/DerinSarpArici)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://github.com/DerinSarpArici)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://github.com/DerinSarpArici)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](https://github.com/DerinSarpArici)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg)' alt='python' height='40'>](https://github.com/DerinSarpArici) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DerinSarpArici)  
-<br />
-<br />
+Şu anda kendimi discord.py konusunda geliştiriyorum, bir yandan da lise hayatımı yaşıyorum!
+
+Yeteneklerim: HTML, CSS, SCSS, JS, PYTHON
 
 ---
 
