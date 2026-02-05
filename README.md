@@ -6,14 +6,8 @@
 
 ![](https://cdn.discordapp.com/attachments/1167138555710144605/1176959341279072256/sarp.png?ex=6570c3cd&is=655e4ecd&hm=1d045a6b3781013653684ba4f1c16d24dc16f249a3f0206bac1bdd357722dfce&)
 
-#### Şu anda kendimi discord.py konusunda geliştiriyorum, bir yandan da lise hayatımı yaşıyorum!
-
-#### Yeteneklerim: HTML, CSS, SCSS, JS, PYTHON
-
 ---
 
 [twitter]: https://twitter.com/DerinSarpArici
 [discord]: https://discord.gg/GZjUREyf3N
 
-### Ekstralar:
-[![Derin Sarp Arıcı'nın Github Statları!](https://github-readme-stats.vercel.app/api?username=derinsarparici)](http://www.derinsarparici.tk)
